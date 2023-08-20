@@ -1,0 +1,60 @@
+body {
+    background-image: url(background_1.jpeg);
+}
+
+div {
+    text-align: center;
+    font-size: 25px;
+}
+
+.mytable {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.mytable,th,td {
+    border: 1px solid black;
+    padding: 10px;
+
+}
+
+.a1 {
+    color: aliceblue;
+    background-color: rgb(55, 55, 55);
+}
+
+.d1 {
+    background-color: yellow;
+}
+
+.d2 {
+    background-color: rgb(240, 17, 132);
+}
+
+.d3 {
+    background-color: green;
+}
+
+.d4 {
+    background-color: orange;
+}
+
+.d5 {
+    background-color: rgb(7, 227, 247);
+}
+
+.d6 {
+    background-color: rgb(130, 10, 130);
+}
+
+.d7 {
+    background-color: rgb(206, 19, 19);
+}
+
+.btn-link:hover {
+    color: rgb(253, 253, 253);
+}
+
+.btn-link {
+    cursor: pointer;
+}
